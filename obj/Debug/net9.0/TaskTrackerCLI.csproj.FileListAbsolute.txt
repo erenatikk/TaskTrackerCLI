@@ -1,0 +1,14 @@
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/bin/Debug/net9.0/TaskTrackerCLI
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/bin/Debug/net9.0/TaskTrackerCLI.deps.json
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/bin/Debug/net9.0/TaskTrackerCLI.runtimeconfig.json
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/bin/Debug/net9.0/TaskTrackerCLI.dll
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/bin/Debug/net9.0/TaskTrackerCLI.pdb
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.AssemblyInfoInputs.cache
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.AssemblyInfo.cs
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.csproj.CoreCompileInputs.cache
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.dll
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/refint/TaskTrackerCLI.dll
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.pdb
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/TaskTrackerCLI.genruntimeconfig.cache
+/home/eren/Projects/TaskTrackerCLI/TaskTrackerCLI/obj/Debug/net9.0/ref/TaskTrackerCLI.dll
